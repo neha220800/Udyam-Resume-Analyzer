@@ -1,0 +1,13 @@
+job_id,job_role,skills,posted_date
+J001,Web Developer,"HTML; CSS; JavaScript; React; Git",2026-08-01
+J002,Web Developer,"HTML; CSS; JavaScript; React; Node.js",2026-08-05
+J003,Web Developer,"JavaScript; React; Node.js; SQL",2026-08-12
+J004,Data Analyst,"Python; SQL; Excel; Pandas; Statistics",2026-08-02
+J005,Data Analyst,"Python; SQL; Pandas; NumPy; Statistics",2026-08-10
+J006,Data Analyst,"Python; SQL; Power BI; Excel",2026-08-15
+J007,Python Developer,"Python; Django; SQL; Git",2026-08-03
+J008,Python Developer,"Python; Flask; SQL; REST API",2026-08-11
+J009,Python Developer,"Python; Django; Git; REST API",2026-08-18
+J010,Machine Learning Engineer,"Python; Machine Learning; NumPy; Pandas; Scikit-learn",2026-08-04
+J011,Machine Learning Engineer,"Python; Machine Learning; Statistics; Scikit-learn",2026-08-14
+J012,Machine Learning Engineer,"Python; Machine Learning; SQL; Pandas",2026-08-20
